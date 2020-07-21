@@ -6,12 +6,9 @@ You already know my name, my idea has always been to provide digital solutions t
 
 ![Years Later](https://i.ytimg.com/vi/K5bgq69ujs4/hqdefault.jpg)
 
-I started studying physics in 2014 at the State University of Maringá, with the dream of being a computational physicist, in the same period I started working with a childhood friend Jean Nogueira and, in 2017, we started the idea of DigitalFriends, to help small businesses and associations to start their first steps on the web.
+I started studying physics in 2014 at the State University of Maringá, dreaming of being a computational physicist. In the same period I started working with a childhood friend Jean Nogueira and, in 2017, we started the idea of DigitalFriends, to help small businesses and associations to make their first steps on the web. In 2018, together with [Orbital Aceleradora de Startups](https://orbital.ac), I was making a better ecosystem for Maringá and the Region! ❤️
 
-In 2018, together with [Orbital Aceleradora de Startups](https://orbital.ac), in search of a better ecosystem for Maringá and the Region! ❤️
-
-
-Since 2019, I have been working with the GRC department at [UniCesumar](http://unicesumar.edu.br/) seeking to automate processes, and improve the **data-driven** audit with data analysis and integration. 📚
+Now, since 2019, I have been working at the Governance, Risk and Compliance department of  [UniCesumar](https://unicesumar.edu.br), seeking to automate internal audit processes and improve data decisions with integrations and analyzes. 📚
 
 ### Projects
 Down here, I'll keep you updated on my projects 👇

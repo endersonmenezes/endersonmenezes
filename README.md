@@ -1,5 +1,6 @@
 ### Hi there 🐍
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=endersonmenezes" alt="endersonmenezes" /> </p>
 
 I really love Python, support communities and play online games!
 

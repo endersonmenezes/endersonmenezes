@@ -1,7 +1,7 @@
 ### Hi there 🐍
-
 I really love Python, support communities and play online games!
 
+### History
 You already know my name, my idea has always been to provide digital solutions to people and companies in an easy way. In the mid-2006, I started my studies in Pascal, since then I became passionate about logic and programming, in 2008 I opened my first **NarutoLife.tk** website, providing all the online episodes of an Anime all in **HTML** 😜 years later along with [Gustavo Quinalha](https://github.com/gustavoquinalha), i started creating online radios with the **Bestdesigner.com.br**, work that was later dissolved and became a Hosting, my first venture.
 
 ![Years Later](https://i.ytimg.com/vi/K5bgq69ujs4/hqdefault.jpg)
@@ -10,7 +10,11 @@ I started studying physics in 2014 at the State University of Maringá, dreaming
 
 In 2019, I have been working at the Governance, Risk and Compliance department of  [UniCesumar](https://unicesumar.edu.br), seeking to automate internal audit processes and improve data decisions with integrations and analyzes, this job ending on Setember/2020. 
 
-Now since this, i working at [Cortex Intelligence](https://cortex-intelligence.com) with Data Engineer for the most valuable companyes from Brazil, we are using top of technology for data integrations.📚
+Since the UniCesumar, I worked at [Cortex Intelligence](https://cortex-intelligence.com) with Data Engineer for the most valuable companyes from Brazil, we are using top of technology for data integrations.📚
+
+Since university I worked at Cortex Intelligence, seeking to develop a scalable architecture with lambdas to capture data from different sources.
+
+Now I'm helping [Stone Payments](http://stone.co/) to grow, being part of the infrastructure team and developing automations that help this team and the entire company.
 
 If you would like to see my curriculum vitae [click here](https://drive.google.com/file/d/1-49x1DoB6-m9sZezJW9vUfKVYZEeYy_r/view?usp=sharing), but I recommend taking a look at my [Linkedin](https://www.linkedin.com/in/endersonmenezes/) too :)
 

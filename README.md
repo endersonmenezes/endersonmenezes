@@ -28,5 +28,9 @@ Now I'm helping [Stone Payments](http://stone.co/) to grow, being part of the in
 
 If you would like to see my curriculum vitae [click here](https://drive.google.com/file/d/1-49x1DoB6-m9sZezJW9vUfKVYZEeYy_r/view?usp=sharing), but I recommend taking a look at my [Linkedin](https://www.linkedin.com/in/endersonmenezes/) too :)
 
+### Contribs
+
+![Contrib from Me](https://github.com/endersonmenezes/endersonmenezes/blob/output/github-contribution-grid-snake.svg)
+
 ### Projects
 Down here, I'll keep you updated on my projects 👇

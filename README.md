@@ -26,7 +26,7 @@ Since university I worked at Cortex Intelligence, seeking to develop a scalable 
 
 Now I'm helping [Stone Payments](http://stone.co/) to grow, being part of the infrastructure team and developing automations that help this team and the entire company.
 
-If you would like to see my curriculum vitae [click here](https://drive.google.com/file/d/1-49x1DoB6-m9sZezJW9vUfKVYZEeYy_r/view?usp=sharing), but I recommend taking a look at my [Linkedin](https://www.linkedin.com/in/endersonmenezes/) too :)
+If you would like to see my [Linkedin](https://www.linkedin.com/in/endersonmenezes/) too :)
 
 ### Contribs
 

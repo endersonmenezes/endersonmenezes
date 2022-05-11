@@ -7,10 +7,6 @@ I really love Python, support communities and play online games!
 [![Enderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=endersonmenezes&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endersonmenezes&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ### History
 You already know my name, my idea has always been to provide digital solutions to people and companies in an easy way. In the mid-2006, I started my studies in Pascal, since then I became passionate about logic and programming, in 2008 I opened my first **NarutoLife.tk** website, providing all the online episodes of an Anime all in **HTML** 😜 years later along with [Gustavo Quinalha](https://github.com/gustavoquinalha), i started creating online radios with the **Bestdesigner.com.br**, work that was later dissolved and became a Hosting, my first venture.
 

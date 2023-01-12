@@ -24,6 +24,10 @@ Now I'm helping [Stone Payments](http://stone.co/) to grow, being part of the in
 
 If you would like to see my [Linkedin](https://www.linkedin.com/in/endersonmenezes/) too :)
 
+### Holoping
+
+[![An image of @endersonmenezes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/endersonmenezes)](https://holopin.io/@endersonmenezes)
+
 ### Contribs
 
 ![Contrib from Me](https://github.com/endersonmenezes/endersonmenezes/blob/output/github-contribution-grid-snake.svg)

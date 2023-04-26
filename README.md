@@ -34,6 +34,20 @@ If you would like to see my [Linkedin](https://www.linkedin.com/in/endersonmenez
 
 ![Contrib from Me](https://github.com/endersonmenezes/endersonmenezes/blob/output/github-contribution-grid-snake.svg)
 
+### Social Networks
+
+- [Twitter](https://twitter.com/iluendido/)
+- [Instagram](https://www.instagram.com/iluendido/)
+- [LinkedIn](https://www.linkedin.com/in/endersonmenezes/)
+- [Trakt](https://trakt.tv/users/endersonmc)
+- [Stack Exchange](https://stackexchange.com/users/6699402/enderson-menezes?tab=accounts)
+- [Dev.to](https://dev.to/endersonmenezes)
+- [Telegram](https://t.me/endersonmc)
+- [Keybase](https://keybase.io/enderson)
+- [Repl.it](https://repl.it/@menezesenderson)
+- [HackerRank](https://www.hackerrank.com/endersonmenezes)
+- [Reddit](https://www.reddit.com/user/endersonmc)
+
 ### Projects
 
 Down here, I'll keep you updated on my projects 👇

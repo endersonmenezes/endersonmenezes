@@ -50,4 +50,32 @@ If you would like to see my [Linkedin](https://www.linkedin.com/in/endersonmenez
 
 ### Projects
 
-Down here, I'll keep you updated on my projects 👇
+#### Associations
+
+- [Codaqui.dev](https://codaqui.dev)
+  - I have the dream of collaboratively setting up a digital school focused on young people and teenagers for digital education, I am building this dream, visit the website and learn more.
+- [AfterData](https://afterdata.in)
+  - Association on Data and its approaches in the technological world with a focus on organizing monthly meetings and sharing digital knowledge.
+- [Desafio do Código](https://desafiodocodigo.com.br)
+  - Platform for teaching "Digital Literacy" without a specific age focus and free of charge, also offering consultancy to interested schools/companies.
+
+#### Projects/Sample Codes
+
+- [Eufraim BIT](https://github.com/endersonmenezes/eufraim)
+  - CREA-PR Hackathon 2019 winning project that demonstrates the use of Python for Scraping with a simple user interface for decision making based on the results obtained.
+- [TreeCity](https://github.com/endersonmenezes/treecity)
+  - Nasa Space Apps 2018 winning project demonstrates the use of Python with Django in a quick Deploy on Heroku, with some initial model configurations.
+- [Python Linear Prog](https://github.com/endersonmenezes/python-linear-programming)
+  - Resolution of Linear Programming exercises with Python, quickly and effectively.
+- [Como Vacinas Causam Austimo](https://github.com/endersonmenezes/como-vacinas-causam-autismo)
+  - Project inspired to disseminate information through "fake-news", the project demonstrates the use and customization of a blog with Ruby using Jekyll.
+- [Download UniCesumar](https://github.com/endersonmenezes/download-slides-unicesumar)
+  - Script development to facilitate and automate the access of [UniCesumar](https://unicesumar.edu.br), institution materials via [Studeo](http://studeo.unicesumar.edu.br/). This script demonstrates the use of Selenium for WebScraping and Automation.
+- [Python Brute](https://github.com/endersonmenezes/pythonbrute)
+  - Code just to demonstrate that creating discount coupons in sympla and other sites using simple word combinations can be hacked. This script made with Requests and Itertools.
+- [PyCortexIntelligence](https://github.com/endersonmenezes/pycortexintelligence)
+  - I developed the start of an SDK for the company I'm working with, the idea is that with it the use of our APIs becomes faster, for developers and customers.
+- [TutorialFlask](https://github.com/endersonmenezes/tutorialflask)
+  - Python tutorial in Portuguese, teaching how to use Flask with Heroku for many applications.
+- [Boletim Diário de Segurança](https://github.com/endersonmenezes/boletim-diario-seguranca)
+  - Send a daily report of cybersecurity to your slack channel.

@@ -1,6 +1,14 @@
 ### Hi there 🐍
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=endersonmenezes" alt="endersonmenezes" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=endersonmenezes" alt="Quantidade de Visitas" /> 
+  <a src="https://twitter.com/iluendido">
+    <img src="https://img.shields.io/twitter/follow/iluendido?style=social" alt="Twitter de Enderson">
+  </a>
+  <a src="https://www.linkedin.com/in/endersonmenezes/">
+    <img src="https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fendersonmenezes%2F">
+  </a>
+</p>
 
 I really love Python and Linux, support communities and play online games!
 

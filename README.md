@@ -4,7 +4,7 @@
 
 I really love Python and Linux, support communities and play online games!
 
-[![Enderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=endersonmenezes&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Enderson Stat's](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=endersonmenezes)
 
 ### History
 

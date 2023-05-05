@@ -61,8 +61,6 @@ Now, I'm working at [Toku](https://trytoku.com) and helping the company to autom
 
 </details>
 
-If you would like to see my [Linkedin](https://www.linkedin.com/in/endersonmenezes/) too :)
-
 ### Holoping
 
 [![An image of @endersonmenezes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/endersonmenezes)](https://holopin.io/@endersonmenezes)

@@ -41,7 +41,9 @@ I really love Python and Linux, support communities and play online games!
 
 ### History
 
-You already know my name, my idea has always been to provide digital solutions for people and companies in an easy way, even without knowing what that was right. In mid-2006, I started my studies in Pascal with Binary Tree, since then I fell in love with Algorithms and Programming, in 2008 I opened my first site **NarutoLife.tk**, making all episodes of an Anime available online, a site built entirely in **HTML** 😜. Years later, together with [Gustavo Quinalha](https://github.com/gustavoquinalha), we started to create online radios **Bestdesigner.com.br**, work that became Hosting for Sites and Games, my first venture.
+<details>
+  <summary>Click to expand!</summary>
+  You already know my name, my idea has always been to provide digital solutions for people and companies in an easy way, even without knowing what that was right. In mid-2006, I started my studies in Pascal with Binary Tree, since then I fell in love with Algorithms and Programming, in 2008 I opened my first site **NarutoLife.tk**, making all episodes of an Anime available online, a site built entirely in **HTML** 😜. Years later, together with [Gustavo Quinalha](https://github.com/gustavoquinalha), we started to create online radios **Bestdesigner.com.br**, work that became Hosting for Sites and Games, my first venture.
 
 ![Years Later](https://i.ytimg.com/vi/K5bgq69ujs4/hqdefault.jpg)
 
@@ -56,6 +58,8 @@ Since the last job, I worked at [Cortex Intelligence](https://cortex-intelligenc
 In 2021/2022 I helped [Stone Payments](http://stone.co/) to grow, being part of the infrastructure team and developing automation's that help this team and the entire company.
 
 Now, I'm working at [Toku](https://trytoku.com) and helping the company to automate recurring payments throughout Latin America.
+
+</details>
 
 If you would like to see my [Linkedin](https://www.linkedin.com/in/endersonmenezes/) too :)
 

@@ -37,8 +37,6 @@
 
 I really love Python and Linux, support communities and play online games!
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=endersonmenezes" />
-
 ### History
 
 <details>

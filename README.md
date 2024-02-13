@@ -41,7 +41,8 @@ I really love Python and Linux, support communities and play online games!
 
 <details>
   <summary>Click to expand!</summary>
-  You already know my name, my idea has always been to provide digital solutions for people and companies in an easy way, even without knowing what that was right. In mid-2006, I started my studies in Pascal with Binary Tree, since then I fell in love with Algorithms and Programming, in 2008 I opened my first site **NarutoLife.tk**, making all episodes of an Anime available online, a site built entirely in **HTML** 😜. Years later, together with [Gustavo Quinalha](https://github.com/gustavoquinalha), we started to create online radios **Bestdesigner.com.br**, work that became Hosting for Sites and Games, my first venture.
+  
+You already know my name, my idea has always been to provide digital solutions for people and companies in an easy way, even without knowing what that was right. In mid-2006, I started my studies in Pascal with Binary Tree, since then I fell in love with Algorithms and Programming, in 2008 I opened my first site **NarutoLife.tk**, making all episodes of an Anime available online, a site built entirely in **HTML** 😜. Years later, together with [Gustavo Quinalha](https://github.com/gustavoquinalha), we started to create online radios **Bestdesigner.com.br**, work that became Hosting for Sites and Games, my first venture.
 
 ![Years Later](https://i.ytimg.com/vi/K5bgq69ujs4/hqdefault.jpg)
 

@@ -46,17 +46,21 @@ You already know my name, my idea has always been to provide digital solutions f
 
 ![Years Later](https://i.ytimg.com/vi/K5bgq69ujs4/hqdefault.jpg)
 
-I started studying physics in 2014 at the State University of Maringá (UEM), dreaming of being a computational physicist. In the same period I started working with a childhood friend Jean Nogueira and, in 2017, we started the idea of **DigitalFriends**, to help small businesses and associations take their first steps on the web, we were a kind of digital agency.
+I began my journey studying physics in 2014 at the State University of Maringá (UEM), with dreams of becoming a computational physicist. During this time, I also started working with a childhood friend, Jean Nogueira. In 2017, we launched **DigitalFriends**, a digital agency aimed at helping small businesses and associations establish their online presence.
 
-In 2018, together with [Orbital Aceleradora de Startups](https://orbital.ac), I was making a better ecosystem for Maringá and the Region, helping people and companies to create their own startups! ❤️
+In 2018, in collaboration with [Orbital Aceleradora de Startups](https://orbital.ac), I contributed to creating a better ecosystem for startups in Maringá and the surrounding region. It was a fulfilling experience to help individuals and companies bring their startup ideas to life.
 
-In 2019, I have been working at the Governance, Risk and Compliance department of [UniCesumar](https://unicesumar.edu.br), seeking to automate internal audit processes and improve data decisions with integrations and analyzes, this job ending on September/2020.
+In 2019, I joined the Governance, Risk, and Compliance department at [UniCesumar](https://unicesumar.edu.br). My role involved automating internal audit processes and improving data-driven decisions through integrations and analyses. I continued in this role until September 2020.
 
-Since the last job, I worked at [Cortex Intelligence](https://cortex-intelligence.com) with Data Engineer for the most valuable companies from Brazil, we are using top of technology for data integrations.📚
+Following my stint at UniCesumar, I worked at [Cortex Intelligence](https://cortex-intelligence.com) as a Data Engineer. Here, I had the opportunity to work with some of Brazil’s most valuable companies, using cutting-edge technology for data integrations.
+
+In 2021/2022, I played a significant role in helping [Stone Payments](http://stone.co/) grow. As part of the infrastructure team, I developed automations that not only benefited our team but the entire company.
 
 In 2021/2022 I helped [Stone Payments](http://stone.co/) to grow, being part of the infrastructure team and developing automation's that help this team and the entire company.
 
-Now, I'm working at [Toku](https://trytoku.com) and helping the company to automate recurring payments throughout Latin America.
+After my time at Stone Payments, I joined [Toku](https://trytoku.com), where I helped automate recurring payments across Latin America, primarily working on an internal platform.
+
+Now, I have returned to Stone Payments with a renewed focus and dream of transforming the entire development experience. I am excited to continue making a difference and help the company reach new heights.
 
 </details>
 

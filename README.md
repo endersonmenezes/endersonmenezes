@@ -78,16 +78,26 @@ Now, I have returned to Stone Payments with a renewed focus and dream of transfo
 
 ### Projects
 
-#### Associations
+### Actively Maintained
 
 - [Codaqui.dev](https://codaqui.dev)
   - I have the dream of collaboratively setting up a digital school focused on young people and teenagers for digital education, I am building this dream, visit the website and learn more.
+  - [Institucional](https://github.com/codaqui/institucional)
+  - [Boletim de Segurança](https://github.com/codaqui/boletim-diario-seguranca)
+  - [Secret Sharing on Piping Server](https://github.com/codaqui/secret-sharing)
+
+- [Free-Disk-Space](https://github.com/endersonmenezes/free-disk-space)
+  - A GitHub Action to free space on GitHub Action Runners.
+
+#### Associations I have participated in
+
 - [AfterData](https://afterdata.in)
   - Association on Data and its approaches in the technological world with a focus on organizing monthly meetings and sharing digital knowledge.
 - [Desafio do Código](https://desafiodocodigo.com.br)
   - Platform for teaching "Digital Literacy" without a specific age focus and free of charge, also offering consultancy to interested schools/companies.
+- [Embaixadoras](https://embaixadoras.ok.org.br/)
 
-#### Projects/Sample Codes
+#### Old Projects/Sample Codes for Study
 
 - [Eufraim BIT](https://github.com/endersonmenezes/eufraim)
   - CREA-PR Hackathon 2019 winning project that demonstrates the use of Python for Scraping with a simple user interface for decision making based on the results obtained.

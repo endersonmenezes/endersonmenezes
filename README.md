@@ -88,6 +88,8 @@ Now, I have returned to Stone Payments with a renewed focus and dream of transfo
 
 - [Free-Disk-Space](https://github.com/endersonmenezes/free-disk-space)
   - A GitHub Action to free space on GitHub Action Runners.
+- [GH Extension - Env to Repo](https://github.com/endersonmenezes/gh-env-to-repo)
+  - A GitHub CLI Extension helping set a repositorie secret from a .env file.
 
 #### Associations I have participated in
 

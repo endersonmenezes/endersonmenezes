@@ -25,13 +25,13 @@
   </a>
 
   <!-- Instagram -->
-  <a src="https://www.instagram.com/iluendido/">
+  <a src="https://www.instagram.com/enderson.dev/">
     <img src="https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Filuendido%2F">
   </a>
 
   <!-- Reddit -->
   <a src="https://www.reddit.com/user/endersonmc">
-    <img src="https://img.shields.io/twitter/url?label=Reddit&logo=reddit&style=social&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2Fendersonmc">
+    <img src="https://img.shields.io/twitter/url?label=Reddit&logo=reddit&style=social&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2Fendersonmenezes">
   </a>
 </p>
 

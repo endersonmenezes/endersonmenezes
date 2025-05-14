@@ -54,8 +54,6 @@ In 2019, I joined the Governance, Risk, and Compliance department at [UniCesumar
 
 Following my stint at UniCesumar, I worked at [Cortex Intelligence](https://cortex-intelligence.com) as a Data Engineer. Here, I had the opportunity to work with some of Brazil’s most valuable companies, using cutting-edge technology for data integrations.
 
-In 2021/2022, I played a significant role in helping [Stone Payments](http://stone.co/) grow. As part of the infrastructure team, I developed automations that not only benefited our team but the entire company.
-
 In 2021/2022 I helped [Stone Payments](http://stone.co/) to grow, being part of the infrastructure team and developing automation's that help this team and the entire company.
 
 After my time at Stone Payments, I joined [Toku](https://trytoku.com), where I helped automate recurring payments across Latin America, primarily working on an internal platform.

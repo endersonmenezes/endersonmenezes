@@ -42,23 +42,31 @@ I really love Python and Linux, support communities and play online games!
 <details>
   <summary>Click to expand!</summary>
   
-You already know my name, my idea has always been to provide digital solutions for people and companies in an easy way, even without knowing what that was right. In mid-2006, I started my studies in Pascal with Binary Tree, since then I fell in love with Algorithms and Programming, in 2008 I opened my first site **NarutoLife.tk**, making all episodes of an Anime available online, a site built entirely in **HTML** 😜. Years later, together with [Gustavo Quinalha](https://github.com/gustavoquinalha), we started to create online radios **Bestdesigner.com.br**, work that became Hosting for Sites and Games, my first venture.
+My goal has always been to provide accessible digital solutions for people and companies, even before I fully understood what that entailed.
+
+My journey into technology began in mid-2006 with studies in Pascal and data structures like Binary Trees. I immediately fell in love with algorithms and programming. In 2008, I launched my first site, **NarutoLife.tk**, making anime episodes available online—a project built entirely in **HTML**.
+
+Years later, alongside [Gustavo Quinalha](https://github.com/gustavoquinalha), I co-founded **Bestdesigner.com.br** to create online radios. This project eventually evolved into my first venture: a hosting service for websites and games.
 
 ![Years Later](https://i.ytimg.com/vi/K5bgq69ujs4/hqdefault.jpg)
 
-I began my journey studying physics in 2014 at the State University of Maringá (UEM), with dreams of becoming a computational physicist. During this time, I also started working with a childhood friend, Jean Nogueira. In 2017, we launched **DigitalFriends**, a digital agency aimed at helping small businesses and associations establish their online presence.
+In 2014, I pursued a degree in Physics at the State University of Maringá (UEM), aspiring to become a computational physicist. During this time, I also partnered with my childhood friend, Jean Nogueira. In 2017, we launched **DigitalFriends**, a digital agency focused on helping small businesses and associations establish their online presence.
 
-In 2018, in collaboration with [Orbital Aceleradora de Startups](https://orbital.ac), I contributed to creating a better ecosystem for startups in Maringá and the surrounding region. It was a fulfilling experience to help individuals and companies bring their startup ideas to life.
+In 2018, in collaboration with [Orbital Aceleradora de Startups](https://orbital.ac), I contributed to building a stronger ecosystem for startups in Maringá and the surrounding region. It was a fulfilling experience helping individuals and companies bring their ideas to life.
 
-In 2019, I joined the Governance, Risk, and Compliance department at [UniCesumar](https://unicesumar.edu.br). My role involved automating internal audit processes and improving data-driven decisions through integrations and analyses. I continued in this role until September 2020.
+In 2019, I joined the Governance, Risk, and Compliance (GRC) department at [UniCesumar](https://unicesumar.edu.br). My role focused on automating internal audit processes and enhancing data-driven decision-making through system integrations and data analysis. I held this position until September 2020.
 
-Following my stint at UniCesumar, I worked at [Cortex Intelligence](https://cortex-intelligence.com) as a Data Engineer. Here, I had the opportunity to work with some of Brazil’s most valuable companies, using cutting-edge technology for data integrations.
+Following my time at UniCesumar, I joined [Cortex Intelligence](https://cortex-intelligence.com) as a Data Engineer. In this role, I had the opportunity to work with some of Brazil’s most valuable companies, utilizing cutting-edge technology for complex data integrations.
 
-In 2021/2022 I helped [Stone Payments](http://stone.co/) to grow, being part of the infrastructure team and developing automation's that help this team and the entire company.
+During 2021-2022, I contributed to the growth of [Stone Payments](http://stone.co/) as part of the infrastructure team. I focused on developing automations that streamlined processes for both my team and the wider company.
 
-After my time at Stone Payments, I joined [Toku](https://trytoku.com), where I helped automate recurring payments across Latin America, primarily working on an internal platform.
+After my initial time at Stone, I joined [Toku](https://trytoku.com), where I helped automate recurring payments across Latin America, primarily by developing an internal platform.
 
-Now, I have returned to Stone Payments with a renewed focus and dream of transforming the entire development experience. I am excited to continue making a difference and help the company reach new heights.
+I later returned to Stone Payments with a renewed focus on transforming the developer experience. I helped the construction of a new internal developer platform and lead a complete restructuring of the company's GitHub organization.
+
+Having completed this mission, I left Stone at the end of 2025 to embrace a new challenge. I am now proud to be part of the team at **Thoughtworks**, where I am focused on exploring new markets and helping clients achieve success through excellence and innovation in infrastructure.
+
+----
 
 </details>
 

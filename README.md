@@ -30,7 +30,7 @@
   </a>
 
   <!-- Reddit -->
-  <a src="https://www.reddit.com/user/endersonmc">
+  <a src="https://www.reddit.com/user/endersonmenezes">
     <img src="https://img.shields.io/twitter/url?label=Reddit&logo=reddit&style=social&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2Fendersonmenezes">
   </a>
 </p>
